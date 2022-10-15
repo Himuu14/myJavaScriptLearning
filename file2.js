@@ -1,16 +1,16 @@
-let marks =10;
-if(marks>=90){
-    console.log("Exellent");
-}
-else if (marks>=80  && marks<90){
-    console.log("very good");
-}
-else if(marks>=70 && marks<80){
-    console.log("good");
-}
-else{
-    console.log("do it better next time");
-}
+// let marks =10;
+// if(marks>=90){
+//     console.log("Exellent");
+// }
+// else if (marks>=80  && marks<90){
+//     console.log("very good");
+// }
+// else if(marks>=70 && marks<80){
+//     console.log("good");
+// }
+// else{
+//     console.log("do it better next time");
+// }
 
 
 // let winningNumber = 19;
@@ -27,3 +27,14 @@ else{
 //         console.log("to low");
 //     }
 // }
+
+let number1 = 40;
+let number2 =90;
+
+if(number1 > number2){
+    console.log(number1);
+}
+else{
+    console.log(number2);
+
+}
